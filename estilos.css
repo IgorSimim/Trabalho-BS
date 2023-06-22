@@ -1,0 +1,72 @@
+/* ============== Fonte ============== */
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* ============== Barra de pesquisa ============== */
+
+.form-control {
+    border: none;
+}
+
+.form-control:focus {
+    background-color: none;
+    box-shadow: none;
+}
+
+/* ============== Lupa ============== */
+
+#picture {
+    border: none;
+}
+
+/* ============== Menu de Navegação ============== */
+
+.header nav ul li a:hover {
+    color: rgb(28, 115, 198);
+    border-bottom: 2px solid rgb(28, 115, 198);
+}
+
+/* ============== Gênero ============== */
+
+.form-check-input:checked {
+    background-color: #1eceac;
+    border: none;
+    box-shadow: none;
+}
+
+.form-check-input:focus {
+    box-shadow: none;
+}
+
+/* ============== Botão "enviar" ============== */
+
+button#enviar.btn.rounded-5 {
+    background-color: rgb(33, 43, 53);
+    color: white;
+    height: 53px;
+    width: 183px;
+}
+
+button#enviar.btn.rounded-5:hover {
+    background-color: #1eceac;
+}
+
+#enviar:hover {
+    background-color: rgb(30, 206, 172);
+}
+
+/* ============== Footer ============== */
+
+.container a {
+    font-size: 14px;
+}
+
+#footer:hover {
+    color: rgb(28, 115, 198);
+}
+
+.link:hover {
+    color: rgb(28, 157, 219);
+    text-decoration: underline rgb(28, 157, 219);
+}
