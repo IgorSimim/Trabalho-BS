@@ -14,12 +14,16 @@ Projeto construido com o propósito de reproduzir a Home de um Site popular do v
 # Como executar o Projeto:
 
 ```bash
-# clonar o projeto                                                                                                                              git clone git@github.com:IgorSimim/Trabalho-BS.git
+# clonar o projeto
+git clone git@github.com:IgorSimim/Trabalho-BS.git
 
-# entrar na pasta do projeto front-end                                                                                                             cd front-end                                                                                                      
+# entrar na pasta do projeto front-end
+cd front-end                                                                                                      
 ```
 # Autor
 
 Igor Leon Borges Silva Simim
 
 https://www.linkedin.com/in/IgorSimim/
+
+Discord: IgorSimim
