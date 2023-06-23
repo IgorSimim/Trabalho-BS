@@ -2,7 +2,7 @@
 
 # Sobre o Projeto
 
-Projeto construido com o propósito de reproduzir a Home de um Site popular do varejo de moda e serviços financeiros, a C&A.
+Projeto construido com o propósito de reproduzir a página home de um Site popular do varejo de moda e serviços financeiros fundada na Holanda, a C&A.
 
 # Tecnologias utilizadas
 ## Front end
